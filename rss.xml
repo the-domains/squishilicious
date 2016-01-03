@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[squishilicious]]></title>
         <description><![CDATA[squishilicious]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/squishilicious/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 17:10:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 17:15:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/squishilicious/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First post on my Grid!!!]]></title>
             <description><![CDATA[<article><h1>First post on my Grid!!!</h1><p>Trying out my new Grid site! How about my funky new logo? ^^</p></article>]]></description>
-            <link>undefinedfirst-post-on-my-grid/index.html</link>
+            <link>https://thegrid.ai/squishilicious/first-post-on-my-grid/index.html</link>
             <guid isPermaLink="false">d2370cc5-d318-4646-a4b0-c7574cf55c26</guid>
-            <pubDate>Sun, 03 Jan 2016 17:10:41 GMT</pubDate>
+            <pubDate>Sun, 03 Jan 2016 17:15:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
