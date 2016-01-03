@@ -1,6 +1,6 @@
 name: squishilicious
 favicon: null
-layout_spectrum: 0.94974
+layout_spectrum: 1
 typography_spectrum: 0.02360112965106964
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#cbf9f1'
     - '#c3fae0'
   brandStrength: 0.1875
-  lightness: 0.10519437096081674
-  saturation: 0.28638420021161437
-  rhythmicContrast: 0.9953957297839224
+  lightness: 0.75
+  saturation: 0.4375
+  rhythmicContrast: 1
 purpose: []
